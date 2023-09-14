@@ -9,7 +9,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 200030264  |  Guilherme Nishimura da Silva |
-| 17/0161897 | João Vítor Motta Souto Maior |
+| 200020927| João Vítor Motta Souto Maior |
 
 ## Sobre  
 xxxxx.
