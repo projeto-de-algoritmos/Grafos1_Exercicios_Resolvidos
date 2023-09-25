@@ -52,3 +52,8 @@ Output Sample
 10
 ```
 
+## Resultado ##
+
+![Accepted](./Accepted.png)
+
+
