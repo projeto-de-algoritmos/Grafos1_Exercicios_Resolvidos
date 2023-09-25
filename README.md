@@ -23,17 +23,17 @@ https://www.beecrowd.com.br/judge/en/problems/view/2545
 
 ## Screenshots
 
-### Manyfiles
+### Manyfiles(Medio)
 ![image](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_Resolvidos/assets/78215376/55e4cde3-0772-414e-ad32-210ad293d2f9)
 
-### Vladimir
+### Vladimir(Dificl)
 
 ![image](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_Resolvidos/assets/78215376/ec1e8d92-fd0d-46cc-96ab-c5decb059853)
 
-### Curo Attack
+### Curo Attack(Dificl)
 ![image](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_Resolvidos/assets/78215376/eb79571e-e48f-4181-aca9-090470df5fc4)
 
-### Design Labirints
+### Design Labirints(Facil)
 
 ![image](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_Resolvidos/assets/78215376/a68b605e-de9c-46f8-9550-21e58d76b176)
 
