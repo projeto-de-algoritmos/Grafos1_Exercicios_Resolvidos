@@ -27,14 +27,18 @@ for _ in range(T):
         if my_dict.get(node1) is None:
             my_dict[node1] = [node2]
         else:
-            my_dict[node1].append(node2)
+            if node2 not in my_dict[node1]:
+                my_dict[node1].append(node2)
 
         if my_dict.get(node2) is None:
             my_dict[node2] = [node1]
         else:
-            my_dict[node2].append(node1)
+            if node1 not in my_dict[node2]:
+                my_dict[node2].append(node1)
     
     movements = 0
     visited.clear()
     movements = dfs(N, 0)
     print(movements*2)
+    # for key, value in my_dict.items():
+    #     print(key, ":", value)
