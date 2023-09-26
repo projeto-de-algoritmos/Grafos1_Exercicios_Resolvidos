@@ -18,6 +18,10 @@ https://www.beecrowd.com.br/judge/en/problems/view/1733
 
 https://www.beecrowd.com.br/judge/en/problems/view/2545
 
+https://www.beecrowd.com.br/judge/en/problems/view/1692
+
+https://www.beecrowd.com.br/judge/en/problems/view/1076
+
 
 *A respeito do exercicio do Vladimir foi encontrado discrepância nos casos de testes do juiz ,tanto pela dupla,quanto no forum, no nosso entendimento o exercicio esta correto e seguindo o que pede o enunciado.
 
@@ -43,6 +47,20 @@ https://www.beecrowd.com.br/judge/en/problems/view/2545
 ## Instalação 
 **Linguagem**: Python e C
 
+Necessario ter o C e Phyton instalados localmente
+
 
 ## Uso 
-xxx.
+Para os exercicios que envolve a linguagem C digitar o comando:
+```
+gcc -o <nome_do_arquivo> <nome_do_arquivo.c>
+```
+
+```
+./<nome_do_arquivo>
+```
+
+Para os exercicios que envolve a linguagem Phyton,Digitar comando:
+```
+python3 <nome_do_arquivo>
+```
