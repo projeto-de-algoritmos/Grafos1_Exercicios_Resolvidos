@@ -25,6 +25,12 @@ https://www.beecrowd.com.br/judge/en/problems/view/1076
 
 *A respeito do exercicio do Vladimir foi encontrado discrepância nos casos de testes do juiz ,tanto pela dupla,quanto no forum, no nosso entendimento o exercicio esta correto e seguindo o que pede o enunciado.
 
+## Apresentação
+O video de apresentaçãod a dupla se encontra nesse repositorio ,clicando em "Apresentação" a seguir ,será redirecionado ao arquivo de apresentação da dupla: [Apresentação](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_Resolvidos/blob/master/Apresenta%C3%A7%C3%A3o.mp4)
+
+
+
+
 ## Screenshots
 
 ### Manyfiles(Medio_Nivel 7)
